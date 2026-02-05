@@ -251,7 +251,7 @@ const App = () => {
             <div key={product.id} className={`product-card bg-white rounded-[2rem] sm:rounded-[2.5rem] p-6 sm:p-10 shadow-xl transition-all duration-500 relative border-2 ${isWinner ? 'border-[#4d7b18] ring-[8px] sm:ring-[12px] ring-[#4d7b18]/5 sm:scale-105 z-10' : 'border-transparent opacity-95'}`}>
               {isWinner && (
                 <div className="absolute -top-3 left-1/2 -translate-x-1/2 bg-[#4d7b18] text-white text-[10px] sm:text-[11px] font-black px-4 sm:px-6 py-1.5 sm:py-2 rounded-full uppercase tracking-widest shadow-lg shadow-[#4d7b18]/30 z-20 whitespace-nowrap">
-                  Basically Free
+                  🏆 THE WINNER
                 </div>
               )}
               
