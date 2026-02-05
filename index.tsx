@@ -148,7 +148,7 @@ const App = () => {
     <div className="min-h-screen bg-slate-50 py-6 sm:py-16 px-4 flex flex-col items-center antialiased transition-all duration-300">
       <header className="w-full max-w-4xl mb-6 sm:mb-16 flex flex-col items-center">
         <Logo className="h-16 w-16 sm:h-20 sm:w-20 mb-3 sm:mb-8 drop-shadow-[0_10px_15px_rgba(77,123,24,0.15)] transition-all" />
-        <h1 className="text-3xl sm:text-4xl font-black text-slate-900 tracking-tight text-center leading-tight">girlmath101</h1>
+        <h1 className="text-3xl sm:text-4xl font-black text-slate-900 tracking-tight text-center leading-tight">Girl Math 101</h1>
         <p className="text-[#ec4899] font-black uppercase tracking-[0.2em] sm:tracking-[0.3em] mt-2 sm:mt-4 text-center text-[10px] sm:text-sm opacity-80">Because if you save money, it's basically free.</p>
         
         <div className="w-full bg-white mt-8 sm:mt-12 p-4 sm:p-8 rounded-[1.5rem] sm:rounded-[2.5rem] shadow-xl border border-slate-100 grid grid-cols-1 md:grid-cols-3 gap-3 sm:gap-6">
